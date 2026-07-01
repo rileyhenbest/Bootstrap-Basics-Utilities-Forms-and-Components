@@ -1,0 +1,23 @@
+body {
+    background-color: #f8f9fa;
+}
+
+h2 {
+    text-align: center;
+}
+
+form {
+    background: white;
+    padding: 25px;
+    border-radius: 10px;
+}
+
+table {
+    background: white;
+}
+
+.rounded-circle {
+    width: 200px;
+    height: 200px;
+    object-fit: cover;
+}
